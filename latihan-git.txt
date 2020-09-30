@@ -2,3 +2,4 @@ latihan git pertama
 - membuat akun github
 - mengetahui command dasar git 
 - integrasi git 
+- membuat tugas git 
